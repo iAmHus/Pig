@@ -1,0 +1,10 @@
+[2016-04-01 T 00:00:00.000+00:00] 2222 Error Hadoopcluster1 p121 t123 module1 error_type-1 error-message-1
+[2016-04-01 T 00:00:00.000+00:00] 2224 Error Hadoopcluster3 p123 t127 module1 error_type-2 error-message-2
+[2016-04-01 T 00:00:00.000+00:00] 2223 Error Hadoopcluster2 p122 t125 module1 error_type-3 error-message-3
+[2016-04-01 T 00:00:00.000+00:00] message ”Hi, How are you?”
+[2016-04-01 T 00:01:00.000+00:00] 2222 warning Hadoopcluster1 p121 t123 module1 warning_type_1
+[2016-04-01 T 00:02:00.000+00:00] 2223 warning Hadoopcluster2 p122 t125 module1 warning_type_2 
+[2016-04-01 T 00:02:50.000+00:00] 2224 warning Hadoopcluster3 p123 t127 module1 warning_type_3
+[2016-04-01 T 00:02:00.000+00:00] 2222 Error Hadoopcluster1 p121 t123 module1 error_type-3 error-message-4
+[2016-04-01 T 00:02:00.000+00:00] 2224 Error Hadoopcluster3 p123 t127 module1 error_type-2 error-message-5
+[2016-04-01 T 00:02:00.000+00:00] 2223 Error Hadoopcluster2 p122 t125 module1 error_type-1 error-message-6
